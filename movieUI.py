@@ -78,7 +78,7 @@ def recommend(movie):
 
     return recommended_movie_names, recommended_movie_posters
 
-st.header('MovieMatch:Content-Based Recommendation System')
+st.header('MovieMatch:Recommendation System')
 
 # Load data
 movies = pickle.load(open('movie.pkl', 'rb'))
