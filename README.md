@@ -1,4 +1,4 @@
-# 🎬 MovieMatch: Content-Based Movie Recommendation System
+# 🎬 MovieMatch: Movie Recommendation System
 
 MovieMatch is a content-based movie recommendation system that suggests 5 similar movies based on the user's input. It uses natural language processing and cosine similarity to match movies, and displays posters using the TMDb API. The project includes a clean frontend built with **Streamlit** and is deployed on **Streamlit Cloud**.
 
