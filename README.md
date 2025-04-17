@@ -15,7 +15,7 @@ Python, Pandas, Scikit-learn, NLTK, Streamlit, TMDb API
 ## 📁 Project Files
 - `movieUI.py`: Streamlit frontend
 - `movie.pkl` & `similarity.pkl`: Preprocessed data and similarity matrix
-- `requirements.txt`: Python dependencies
+- `Movie.ipynb`: Data preprocessing
 
 ## 📷 UI Preview
 Visit the live app to try it out:  
@@ -33,4 +33,4 @@ Hosted on **Streamlit Cloud**
 ## 📜 License
 MIT License
 
-Made with ❤️ using Python and Streamlit
+Made with using Python and Streamlit
